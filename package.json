@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ace-min-noconflict": "^1.1.9"
-  }
+  },
+  "dependencies": {}
 }
